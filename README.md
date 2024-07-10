@@ -1,7 +1,7 @@
 ## How to run the code
 - cd `Name Project`
 - cp .env.example `.env`
-- cp .laporan `To Your Name Database`
+- cp laporan `To Your Database Name` 
 - run : `composer install`
 - run : `php artisan key:generate`
 - run : `php artisan migrate:fresh`
