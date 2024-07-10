@@ -1,5 +1,5 @@
 ## How to run the code
-- cd laravel-11-multi-auth
+- cd `Name Project`
 - cp .env.example `.env`
 - cp .laporan `To Your Name Database`
 - run : `composer install`
